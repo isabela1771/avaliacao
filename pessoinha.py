@@ -22,5 +22,3 @@ pessoa4 = Pessoa("Gabriel Pedro", 17, 1.73, 60, "estudante")
 pessoa5 = Pessoa("Isa-bela Soa ares", 17, 1.69, 71, "estudante")
 
 pessoa1.apresentar()
-
-
