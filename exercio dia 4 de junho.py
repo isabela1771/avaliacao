@@ -20,4 +20,5 @@ class Departamento:
 dep = Departamento("Computação")
 prof = Professor("Carlos", dep) #
 
+
 prof.apresentar()
